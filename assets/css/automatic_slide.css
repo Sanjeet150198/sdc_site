@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin:0px;
+	font-family:cambria;
+	}
+.mySlides {display:none;}
+.content-section{margin:0px auto;
+				 margin-left:400px;
+				}
+
+
+
+	
+.clear{
+		clear:both !important;	
+	}
+	
+.pannel-full{
+		width:100%;
+		margin:0px auto;	
+	}
+	
+.pannel-width{
+		margin:0px auto !important;
+		width:1170px !important;
+		max-width:100%;	
+	
+	}	

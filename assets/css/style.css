@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0px;
+	 font-family:Cambria;
+	 position:relative;
+	}
+	   
+.wrapper{width:100%;
+		float:left;
+		height:auto;
+		background-color:#363636;
+	}
+
+
+		
+.main{width:1170px;
+	height:auto;
+	float:left;
+	/*background-color:#DAE9EF !important;*/
+	}
+	
+/*.main:hover{background-color:#F4E3E3;}*/
+	
+/*.primary_color{
+	color:#fff;}*/
+.primary_bg_color{
+	background-color:#041e54 !important;}
+	
+.header{
+	width:inherit;
+	float:left;
+	margin:0px auto;
+	}
+	
+.header .logo{
+	max-width:100% !important;
+	max-height:150px !important;
+	float:left;
+	margin-top:10px;
+	margin-bottom:5px;}		
+
+.header .cmpy_name{
+	max-width:100% !important;
+	max-height:150px !important;}

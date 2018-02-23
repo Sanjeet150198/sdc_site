@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+#top{
+	position:fixed;
+	bottom:10px;
+	right:10px;
+	display:none;
+	background-color:#BEBEBE;
+	}
+	
